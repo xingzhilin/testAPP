@@ -1,0 +1,27 @@
+{
+  "name": "testAPP",
+  "description": "tst_app",
+  "main": "index.js",
+  "authors": [
+    "zhilin"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "test"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
+}
